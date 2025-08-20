@@ -1,0 +1,15 @@
+{
+  "name": "jwt_e_d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start":"node jwt.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
